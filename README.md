@@ -2,7 +2,7 @@
 
 # RIFT
 
-**2nd Place Overall at tidalBYTE '26, Texas A&M. Also entered in NVIDIA's Best Use of Nemotron track.**
+**🏆 2nd Place Overall at tidalBYTE 2026 Hackathon at Texas A&M.**
 
 - Live Deployment: [rift-safety.netlify.app](https://rift-safety.netlify.app)
 - Hackathon: [tidalBYTE '26](https://f26.tidaltamu.com/), tidalTAMU's 12-hour hackathon in the MSC on November 21, 2026
