@@ -2,10 +2,10 @@
 
 # RIFT
 
-**Built at tidalBYTE '26, Texas A&M, for the main track and NVIDIA's Best Use of Nemotron track.**
+**2nd Place Overall at tidalBYTE '26, Texas A&M. Also entered in NVIDIA's Best Use of Nemotron track.**
 
 - Live Deployment: [rift-safety.netlify.app](https://rift-safety.netlify.app)
-- Hackathon: [tidalBYTE '26](https://f26.tidaltamu.com/), a 12-hour hackathon run by tidalTAMU in the MSC on November 21, 2026
+- Hackathon: [tidalBYTE '26](https://f26.tidaltamu.com/), tidalTAMU's 12-hour hackathon in the MSC on November 21, 2026
 
 RIFT (Reality Intelligence & Future Testing) opens on a 3D map of Texas A&M. Pick a building and it becomes an evacuation digital twin with hundreds of simulated occupants, a spreading fire and drifting smoke. An NVIDIA Nemotron agent then plans the evacuation by running real simulations as tool calls, comparing the results, and committing the plan that beats unguided self-evacuation. Drop an obstacle, start a second fire or block an exit, and it replans on its own.
 
